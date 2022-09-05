@@ -1,4 +1,5 @@
-[
+{
+    "customers": [
     {
       "id": 1,
       "email": "schamberlayne0@weebly.com",
@@ -55,3 +56,5 @@
 
 
   ]
+
+}
