@@ -7,6 +7,7 @@
       "name": "Starlin",
       "cc_balance": "23.13",
       "due_date": "6/27/2022",
+      "cc_number": "1234554321"
       "last_digits": 2398
     },
     {
@@ -16,6 +17,7 @@
       "name": "Tilda",
       "cc_balance": "321.54",
       "due_date": "8/26/2022",
+      "cc_number": "0123443210"
       "last_digits": 7821
     },
     {
@@ -25,6 +27,7 @@
       "name": "Julianna",
       "cc_balance": "81.81",
       "due_date": "7/16/2022",
+      "cc_number": "0023443200"
       "last_digits": 1234,
       "currency": "$"
     },
@@ -36,6 +39,7 @@
         "name": "Frando Manurung",
         "cc_balance": "176.31",
         "delivery_date": "7/16/2022",
+        "cc_number": "0003443000"
         "last_digits": "1234",
         "due_date": "seventh day of every month",
         "currency": "$"
@@ -49,6 +53,7 @@
         "name": "Frando Manurung",
         "cc_balance": "76.31",
         "delivery_date": "7/16/2022",
+        "cc_number": "0013443100"
         "last_digits": "1234",
         "due_date": "seventh day of every month",
         "currency": "$"
