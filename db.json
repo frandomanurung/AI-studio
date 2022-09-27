@@ -37,6 +37,7 @@
         "cc_balance": "176.31",
         "delivery_date": "7/16/2022",
         "last_digits": "1234",
+        "cc_number": "123456789",
         "due_date": "seventh day of every month",
         "currency": "$"
           
@@ -50,6 +51,7 @@
         "cc_balance": "76.31",
         "delivery_date": "7/16/2022",
         "last_digits": "1234",
+        "cc_number": "123456788",
         "due_date": "seventh day of every month",
         "currency": "$"
       }
